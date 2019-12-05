@@ -1,2 +1,3 @@
 hello Git!
-try to modify file
+try to modify file.
+Test version control.
